@@ -1,0 +1,99 @@
+[{
+  "question": "What was the Grinch's dog's name?",
+  "answerRight": "max",
+  "answer1": "buddy",
+  "answer2": "rudolph",
+  "answer3": "harry",
+  "pointChange": 10
+}, {
+  "question": "How many sizes too small is the Grinch's heart?",
+  "answerRight": "two",
+  "answer1": "three",
+  "answer2": "four",
+  "answer3": "five",
+  "pointChange": 10
+}, {
+  "question": "What does Cindy's dad say Christmas is really about?",
+  "answerRight": "presents",
+  "answer1": "family",
+  "answer2": "food",
+  "answer3": "cheer",
+  "pointChange": 10
+}, {
+  "question": "What award was the Grinch given?",
+  "answerRight": "Holiday Cheermister",
+  "answer1": "Best Christmas Sweater",
+  "answer2": "Santa's Best",
+  "answer3": "Who-ville's Christmas Favorite",
+  "pointChange": 10
+}, {
+  "question": "What does the Grinch say is broken when Cindy catches him?",
+  "answerRight": "a bulb on the tree",
+  "answer1": "an ornament",
+  "answer2": "one of the toys",
+  "answer3": "the star on the tree",
+  "pointChange": 10
+}, {
+  "question": "Where does the Grinch live?",
+  "answerRight": "Mount Crumpet",
+  "answer1": "Grumpit Valley",
+  "answer2": "Who Mountain",
+  "answer3": "Underground",
+  "pointChange": 10
+}, {
+  "question": "What does the Grinch receive from Who-ville every day?",
+  "answerRight": "trash",
+  "answer1": "flyers",
+  "answer2": "tree lights",
+  "answer3": "mail",
+  "pointChange": 10
+}, {
+  "question": "What makes the Grinch's heart grow?",
+  "answerRight": "singing",
+  "answer1": "family",
+  "answer2": "gifts",
+  "answer3": "joy",
+  "pointChange": 10
+} , {
+  "question": "What is Cindy's mom's name?",
+  "answerRight": "Betty",
+  "answer1": "Nancy",
+  "answer2": "Carol",
+  "answer3": "Jane",
+  "pointChange": 10
+} , {
+  "question": "Who does the Grinch love?",
+  "answerRight": "Martha May",
+  "answer1": "Betty Lou",
+  "answer2": "Carey Ann",
+  "answer3": "Kara Joy",
+  "pointChange": 10
+}, {
+  "question": "What does Cindy Lou come downstairs for?",
+  "answerRight": "a glass of water",
+  "answer1": "to get a snack",
+  "answer2": "to feed her cat",
+  "answer3": "to go to the bathroom",
+  "pointChange": 10
+}, {
+  "question": "The mayor gives the Grinch a what for Christmas?",
+  "answerRight": "a razor",
+  "answer1": "a santa hat",
+  "answer2": "shoes",
+  "answer3": "a toothbrush",
+  "pointChange": 10
+}, {
+  "question": "What does the mayor offer Martha along with his hand in marriage?",
+  "answerRight": "a new car",
+  "answer1": "a yacht",
+  "answer2": "a new house",
+  "answer3": "a new dress",
+  "pointChange": 10
+}, {
+  "question": "It came without _____, it came without tags, it came without packages, boxes and bags",
+  "answerRight": "ribbons",
+  "answer1": "glitter",
+  "answer2": "presents",
+  "answer3": "tissue paper",
+  "pointChange": 10
+}]

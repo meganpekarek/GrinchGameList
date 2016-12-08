@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameProject</string>
+    <string name="mission"><b> Mission: </b>To steal Christmas.</string>
+    <string name="directions"><b> Directions: </b>Answer the questions correctly to build your score and get access to the last three houses in Whoville</string>
+    <string name="firstQ"><b>Your first question is: </b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
